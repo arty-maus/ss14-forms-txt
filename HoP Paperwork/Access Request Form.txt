@@ -1,0 +1,73 @@
+# Access Request Form
+[color=#1b67a5]▄▀█ █▀█    [head=3]Access Request Form[/head]
+█▀█ █▀▄     Form No. HOP-207[/color]
+──────────────────────────────────────────
+NanoTrasen welcomes your petition to the Office of the Head of Personnel for additional station access! Please note that submission, while always appreciated, implies no guarantee of eventual approval, timely review, or acknowledgment of receipt.
+
+[bold][head=2]Section I: Petitioner Identity[/head][/bold]
+
+Your Name:   [color=#1b67a5]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Your Position:   [color=#1b67a5]Sample Position[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold][head=2]Section II: Access Requested[/head][/bold]
+
+Service:
+[ ] Botany                 [ ] Kitchen
+[ ] Bar                    [ ] Janitorial
+[ ] Theatre                [ ] Chapel
+[ ] Legal
+
+Engineering:
+[ ] Engineering            [ ] Atmospherics
+
+Medical:
+[ ] Medical                [ ] Chemistry
+
+Science:
+[ ] Research
+
+Cargo:
+[ ] Cargo                  [ ] Salvage
+
+General:
+[ ] Maintenance            [ ] External
+
+Security:
+[ ] Security               [ ] Brig
+[ ] Detective              [ ] Armory
+
+Command:
+[ ] Command                [ ] Captain
+[ ] Head of Personnel      [ ] Chief Engineer
+[ ] Chief Medical Officer  [ ] Head of Security
+[ ] Research Director      [ ] Quartermaster
+[ ] Cryogenics
+
+Reason (please be detailed, illegible submissions will be filed accordingly):
+    [color=#1b67a5]Sample Reason[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[bold][head=2]Section III: Adjudication[/head][/bold]
+
+Head of Personnel Approval: [color=#1b67a5]Sample[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[italic][color=#aaaaaa]This form is only considered valid once stamped in Central Records-recognized ink — a small formality we're sure you understand. Petitioners are trusted to keep their information accurate, including facts that become false after submission. NanoTrasen may, at its sole discretion, kindly request resubmission in triplicate at any time. Falsification is regarded as a breach of the trust NanoTrasen has placed in you, and will be met with disciplinary measures of a nature and severity to be determined.[/italic][/color]
+
+[bold][head=2]Section IV: Standard Grounds for Denial[/head][/bold]
+
+[italic][color=#aaaaaa]In the interest of transparency, your request may be regretfully declined for any of the following reasons, entirely at the discretion of the Office of the Head of Personnel:[/color][/italic]
+
+ - Requested access exceeds, equals, or falls below that which is deemed appropriate.
+ - Petitioner's name does not match the name on file, the name on the badge, or the name the reviewing officer had in mind.
+ - Form submitted on the incorrect shade of paper.
+ - Reason for request was too detailed, insufficiently detailed, or detailed in the wrong order.
+ - Petitioner has previously been granted access to something, at some point, by someone.
+ - The requested area does not require access, want access, or is not aware it has been requested.
+ - Stamp ink assessed as spiritually, if not chemically, incorrect.
+ - Request filed on a day ending in "y."
+ - Reviewing officer's tea was unsatisfactory at time of review.
+ - No reason provided. No reason required.

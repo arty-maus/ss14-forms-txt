@@ -5,6 +5,8 @@
 [head=1][bold]S-23 Form:[/bold] Replacement ID card for lost or damaged ID[/center]
 [/head]
 ─────────────────────────────────────────
+Should an undocumented or newly discovered individual require documentation, crewmates are kindly asked to submit Form S-25 instead. All other submissions will, regrettably, be declined.
+
 [bold]Name/Aliases:[/bold][italic]
 [color=#1b67a5] Sample[/color] [/italic]
 [bold]Current Job:[/bold][italic]

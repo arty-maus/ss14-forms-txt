@@ -1,0 +1,33 @@
+# PDA Request Form
+[color=#1b67a5]░░██░░
+▀████▀
+▄█▀▀█▄ [/color]
+[head=1][bold]S-24 Form:[/bold] Requisition or replacement of Personal Data Assistant[/center]
+[/head]
+─────────────────────────────────────────
+NanoTrasen is pleased to accept petitions to the Office of the Head of Personnel for a new PDA, or replacement of one lost, broken, or otherwise unaccounted for. Submission is always welcome, though it implies no guarantee of eventual approval.
+
+[bold][head=2]Section I: Requisitioner Details[/head][/bold]
+
+[bold]Name/Aliases:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Current Job:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+
+[bold][head=2]Section II: Nature of Request[/head][/bold]
+
+[bold]Is this a new issue or a replacement?:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]If replacement, was the unit lost, damaged, confiscated, or eaten by a rodent of unusual size?:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Circumstances surrounding the above, in as much unnecessary detail as possible:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]What can be done to avoid this occurring again?:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+
+[bold][head=2]Section III: Authorization[/head][/bold]
+
+[bold]Head of Personnel approval:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Requisitions are lovingly governed by fair use policy 67C4 (devices smaller than a clipboard). NanoTrasen reserves the right to decline any application under this or any other criteria it deems appropriate, including criteria not yet designated. Crewmates who lose or damage PDAs with unusual frequency will find the cost warmly, if retroactively, reflected in their personal accounts per 67C6. Cartridges are sold separately and must be requisitioned under 67C4-A.[/color][/italic]

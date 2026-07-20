@@ -1,0 +1,30 @@
+# ID Request Form
+[color=#1b67a5]┌────┐
+│ ▄▄ │
+│▐██▌│
+└────┘ [/color]
+[head=1][bold]S-25 Form:[/bold] New Crewmate Registration and Identification Enrollment[/center]
+[/head]
+─────────────────────────────────────────
+NanoTrasen is delighted to welcome new faces aboard! Use this form to enroll a previously undocumented individual into the personnel database and issue their very own ID. Most commonly filed for stowaways, defectors, and other guests found aboard without prior paperwork. Should a card be lost or damaged, crewmates are kindly asked to submit Form S-23 instead. All other submissions will, regrettably, be declined.
+
+[bold]Name/Aliases (all of them, including the ones you think we don't know about):[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Assigned Job/Position:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Department:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Circumstance of discovery (Stowaway/Defector/Rescue/Unclear/Other):[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Point of origin, prior employer, or organization of former allegiance:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Reason given by subject for presence aboard station (note: reason need not be believed to be recorded):[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Previous ID number, if applicable, or number of a card the subject claims never to have had:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Head of requesting party's department signature:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+[bold]Head of Personnel approval:[/bold][italic]
+[color=#1b67a5] Sample[/color] [/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]By signing below, the enrolling officer warmly confirms that the subject has been fingerprinted, photographed, interviewed, and lovingly logged to Central Records — voiceprint, genetic sample, and general disposition included — for the full duration of employment and a comfortable while after. Enrollment is not, of course, any determination of loyalty, character, or species, and confers no rights beyond those needed to perform assigned duties. In the spirit of continuous improvement, NanoTrasen may monitor, review, and retain all activity and biometric data indefinitely. This form is governed by the same caring policy, 67C3, that covers lost or damaged cards, on the understanding that an undocumented individual is administratively indistinguishable from one who has simply misplaced their paperwork. Crewmates who decline to cooperate fully may find their reluctance itself considered a helpful data point.[/color][/italic]
